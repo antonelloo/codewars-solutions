@@ -19,6 +19,4 @@ var replaceDots = function(str) {
   
 
 
-hexToDec("1") //1)
-hexToDec("a") //10)
-hexToDec("10") //16)
+replaceDots("one.two.five") // "one-two-five"
