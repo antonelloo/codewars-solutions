@@ -18,6 +18,10 @@ function Sleigh() {}
 Sleigh.prototype.authenticate = function(name, password) {
   return name === "Santa Claus" && password ===  "Ho Ho Ho!"
 };
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 2c9979fe02e944affa30b193cf612f52e8ec543e
 
 
 // sleigh.authenticate("Santa", "Ho Ho Ho!"); // must return FALSE
