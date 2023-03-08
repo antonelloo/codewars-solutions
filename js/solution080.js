@@ -29,6 +29,8 @@ function high(x){
     return x.split(" ")[highestScoringWord]
     }
 
+
+    
 // ---RESULTS:
 high('man i need a taxi up to ubud') //'taxi')
 high('what time are we climbing up the volcano') // 'volcano'
